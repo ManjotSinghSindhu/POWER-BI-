@@ -22,6 +22,8 @@ Beyond those three, Power BI also features two other elements:
 Power BI Report Builder, for creating paginated reports to share in the Power BI service. Read more about paginated reports later in this article.
 Power BI Report Server, an on-premises report server where you can publish your Power BI reports, after creating them in Power BI Desktop. Read more about Power BI Report Server later in this article.
 
+Type of Charts are :
+
 **1. COLUMN CHART**
 
 A column chart is a data visualization where each category is represented by a rectangle, with the height of the rectangle being proportional to the values being plotted. Column charts are also known as vertical bar charts.
