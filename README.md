@@ -21,7 +21,7 @@ These three elements—Power BI Desktop, the service, and the mobile apps—are 
 Beyond those three, Power BI also features two other elements:
 
 Power BI Report Builder, for creating paginated reports to share in the Power BI service. Read more about paginated reports later in this article.
-Power BI Report Server, an on-premises report server where you can publish your Power BI reports, after creating them in Power BI Desktop. Read more about Power BI Report Server later in this article.
+Power BI Report Server, an on-premises report server where you can publish your Power BI reports, after creating them in Power BI Desktop. 
 
 Type of Charts are :
 
